@@ -1,0 +1,18 @@
+.search-wrapper {
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 0 2rem;
+    margin-top: 8rem;
+}
+
+.search-input {
+    width: 25rem;
+    outline: none;
+    border: none;
+    border-bottom: 5px solid black;
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2rem;
+}

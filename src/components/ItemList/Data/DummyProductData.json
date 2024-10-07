@@ -1,0 +1,147 @@
+[
+    {
+      "product_id": 1,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 2,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 3,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 4,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 5,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 6,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 7,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 8,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 9,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 10,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 11,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 12,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 13,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 14,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 15,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 16,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 17,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 18,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 19,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 20,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 21,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    },
+    {
+      "product_id": 22,
+      "eng_name": "Nike Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_airforce1.jpg",
+      "price": "100,000"
+    },
+    {
+      "product_id": 23,
+      "eng_name": "Nike Peaceminusone Air Force 1",
+      "thumbnail_url": "/images/productImg/nike_peaceminusone.jpg",
+      "price": "120,000"
+    },
+    {
+      "product_id": 24,
+      "eng_name": "Converse All Star",
+      "thumbnail_url": "/images/productImg/converse_allstar.jpg",
+      "price": "80,000"
+    }
+  ]
+  

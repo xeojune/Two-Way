@@ -1,0 +1,25 @@
+/* Flexbox layout for wrapper */
+.notFound-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem; /* Adjust based on your theme's xxxl value */
+}
+
+/* Main text styling */
+.error-text {
+font-size: 1.5rem; /* Adjust based on your theme's xl value */
+margin-bottom: 1.25rem; /* Adjust based on your theme's large value */
+}
+
+/* Sub text styling */
+.error-subtext {
+color: gray; /* Adjust based on your theme's gray color */
+}
+
+/* SubSpan styling */
+.sub-span {
+font-weight: bold; /* Adjust based on your theme's bold value */
+}
+  
